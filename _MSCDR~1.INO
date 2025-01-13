@@ -15,7 +15,7 @@
 #define BUZZER_PIN 8
 
 // Constants
-const int DISTANCE_THRESHOLD = 30; // Απόσταση εμποδίου σε εκατοστά
+const int DISTANCE_THRESHOLD = 20; // Απόσταση εμποδίου σε εκατοστά
 
 void setup() {
   // Initialize motor driver pins as outputs
